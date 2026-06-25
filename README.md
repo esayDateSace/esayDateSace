@@ -1,7 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br>Hi 👋, I'm Yuvraj Singh<br>Highly skilled Full Stack Developer with extensive experience in Java, and backend architecture like Mongodb, Node JS and Express JS etc. Proficient in Frontend technologies including HTML, CSS, JavaScript and ReactJS. Skilled in Data Structures and Algorithms (DSA).<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, MySQL, Mongodb, Node JS and Express JS.<br><br>📫 How to reach me mr.uvsingh@yahoo.com<br>
 <br>📄 Know about my experiences
-<br>1. [https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/1MpzPdOtf2fqJF4IucCPnhH1r94cnF2NW?usp=sharing) <br> 2. https://uvsingh007.github.io/<br> <br> LinkedIn Link - https://www.linkedin.com/in/uvsingh007/<br>
+<br>1. [https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/1MpzPdOtf2fqJF4IucCPnhH1r94cnF2NW?usp=sharing) <br> 
 
 
 ## 🌐 Socials:
